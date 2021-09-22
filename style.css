@@ -1,6 +1,15 @@
-.background {
-    background-image: url();
-    background-position: center;
-    color:aquamarine;
-    height: 50vh;
+body {
+    text-align:center;
+    background-color:rgb(157, 73, 226)
 }
+h1{
+color:rgb(41, 75, 64)
+font: weight 100px;
+font-family: 
+}
+
+p{color: rgb(78, 85, 179);}
+h2{font-weight:700;
+color:rgb(33, 209, 180)}
+h3{font-weight:500;
+    color:rgb(35, 102, 91)}
