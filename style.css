@@ -1,12 +1,16 @@
 body {
     text-align:center;
-    background-color:rgb(157, 73, 226)
+    background-color:rgb(31, 182, 174)
 }
+
+
 h1{
 color:rgb(41, 75, 64)
 font: weight 100px;
-font-family: 
+font-family: weighted;
+Font-size: 64px;
 }
+
 
 p{color: rgb(78, 85, 179);}
 h2{font-weight:700;
