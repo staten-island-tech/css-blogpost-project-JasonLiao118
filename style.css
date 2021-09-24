@@ -1,19 +1,42 @@
 body {
-    text-align:center;
-    background-color:rgb(31, 182, 174)
+  text-align: center;
+  background-color: rgb(238, 31, 31);
 }
 
-
-h1{
-color:rgb(41, 75, 64)
-font: weight 100px;
-font-family: weighted;
-Font-size: 64px;
+main {
+  width: 900px;
+  background: rgb(170, 22, 238);
+  border: 50px solid rgb(73, 52, 53);
+  padding: 64px;
+  margin: 375px;
+  margin-bottom: 75px;
+  margin-right: 75px;
+  text-align: center;
+  margin-top: -10px;
 }
 
+img {
+  max-width: 75%;
+  max-height: 75%;
+}
 
-p{color: rgb(78, 85, 179);}
-h2{font-weight:700;
-color:rgb(33, 209, 180)}
-h3{font-weight:500;
-    color:rgb(35, 102, 91)}
+h1 {
+  color: rgb(0, 2, 1);
+  font: weight 100px;
+  font-family: "Trebuchet MS";
+  font-size: 100px;
+}
+
+p {
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+}
+h2 {
+  font-weight: lighter;
+  color: rgb(33, 209, 180);
+  font-size: 50px;
+}
+h3 {
+  font-weight: 500;
+  color: rgb(35, 102, 91);
+}
