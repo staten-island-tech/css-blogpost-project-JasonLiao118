@@ -6,7 +6,7 @@ body {
 main {
   width: 900px;
   background: rgb(255, 255, 255);
-  border: 50px solid rgb(101, 168, 255);
+  border: 5px rgb(101, 168, 255);
   padding: 64px;
   margin: 375px;
   margin-bottom: 75px;
@@ -20,23 +20,20 @@ img {
   max-height: 75%;
 }
 
-h1 {
+.title {
   color: rgb(113, 252, 182);
   font: weight 100px;
   font-family: "Trebuchet MS";
   font-size: 100px;
 }
 
-p {
-  color: rgb(117, 93, 250);
-}
-
-h2 {
+.subtitle {
   font-weight: bold;
   color: rgb(74, 58, 223);
   font-size: 50px;
 }
-h3 {
+.blurb {
   font-weight: 500;
   color: rgb(3, 110, 75);
+  font-family: "Lucida Sans";
 }
