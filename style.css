@@ -6,7 +6,7 @@ body {
 main {
   width: 900px;
   background: rgb(255, 255, 255);
-  border: 25px rgb(101, 168, 255);
+  border: 25px solid rgb(24, 92, 182);
   padding: 64px;
   margin: 375px;
   margin-bottom: 75px;
