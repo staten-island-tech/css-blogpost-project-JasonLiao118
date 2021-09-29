@@ -6,7 +6,7 @@ body {
 main {
   width: 900px;
   background: rgb(255, 255, 255);
-  border: 5px rgb(101, 168, 255);
+  border: 25px rgb(101, 168, 255);
   padding: 64px;
   margin: 375px;
   margin-bottom: 75px;
@@ -20,7 +20,7 @@ img {
   max-height: 75%;
 }
 
-.title {
+#mytitle {
   color: rgb(113, 252, 182);
   font: weight 100px;
   font-family: "Trebuchet MS";
@@ -32,6 +32,7 @@ img {
   color: rgb(74, 58, 223);
   font-size: 50px;
 }
+
 .blurb {
   font-weight: 500;
   color: rgb(3, 110, 75);
