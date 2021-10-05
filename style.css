@@ -3,18 +3,6 @@ body {
   background-color: rgb(0, 0, 0);
 }
 
-main {
-  width: 900px;
-  background: rgb(255, 255, 255);
-  border: 25px solid rgb(24, 92, 182);
-  padding: 64px;
-  margin: 375px;
-  margin-bottom: 75px;
-  margin-right: 75px;
-  text-align: center;
-  margin-top: -10px;
-}
-
 img {
   max-width: 75%;
   max-height: 75%;
@@ -27,14 +15,26 @@ img {
   font-size: 100px;
 }
 
-.subtitle {
+.post-title {
   font-weight: bold;
   color: rgb(74, 58, 223);
   font-size: 50px;
 }
 
-.blurb {
+.post-blurb {
   font-weight: 500;
   color: rgb(3, 110, 75);
   font-family: "Lucida Sans";
+}
+
+.post {
+  width: 900px;
+  background: rgb(255, 255, 255);
+  border: 25px solid rgb(24, 92, 182);
+  padding: 64px;
+  margin: 375px;
+  margin-bottom: 75px;
+  margin-right: 75px;
+  text-align: center;
+  margin-top: -10px;
 }
